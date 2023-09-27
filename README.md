@@ -1,16 +1,23 @@
-### Hi there 👋
+## 🚀 About Me
+I'm a full Stacked Developer! 
 
-<!--
-**mightynaughty/mightynaughty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔗 Meh.....
+![portfolio](https://i.ibb.co/FYSWfw5/images.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Gamepixel Network
+
+🧠 I'm currently learning C++.
+
+👯‍♀️ I'm looking to collaborate on Skyblock MMORPG
+
+
+
+📫 How to reach me **leonotdeo@gmail.com**
+
+![portfolio](https://i.ibb.co/2MKmHNg/9adfecc29d2d0b16f6351e0af8305c87.jpg)
+
+## 🛠 Skills
+Java / Python / JavaScript / CSS
+
